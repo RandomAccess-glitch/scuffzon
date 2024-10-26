@@ -1,0 +1,24 @@
+.body-pillow {
+    background: #000e14;
+    color: #6a040f;
+    text-align: center;
+}
+
+.bdy {
+    width: 300px;
+    border: 4px solid #007bff;
+    border-radius: 20px;
+}
+
+button {
+    background: 000e14;
+    color: #07c8f9;
+    font-size: xx-large;
+    border: 4px solid #07c8f9;
+    padding: 8px 16px;
+    border-radius: 24px;
+}
+
+p {
+    color: #07c8f9;
+}

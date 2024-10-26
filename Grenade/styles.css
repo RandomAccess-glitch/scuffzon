@@ -1,0 +1,23 @@
+.underline {
+    text-decoration: underline;
+}
+
+.grenade {
+    background: #3c0919;
+    text-align: center;
+    color: #dcace8;
+}
+
+button {
+    background: 000e14;
+    color: #e2294f;
+    font-size: xx-large;
+    border: 4px solid #e2294f;
+    padding: 8px 16px;
+    border-radius: 24px;
+}
+
+.grd {
+    border: 6px solid #d9b285;
+    border-radius: 40px;
+}
