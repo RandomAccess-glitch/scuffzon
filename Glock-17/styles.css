@@ -11,10 +11,19 @@ button {
     border: 4px solid #e8998d;
     padding: 8px 16px;
     border-radius: 24px;
+    background: linear-gradient(#2f3237, white);
 }
 
 .Glock-17 {
-    background: #b8f2e6;
+    /* background: #2f3237; */
     text-align: center;
     color: #343a40;
+    text-shadow: 0px 0px 6px black;
+    background: linear-gradient(#2f3237, white);
+}
+
+#product {
+    font-family: Rowdies, sans-serif;
+    font-weight: 800;
+    font-size: x-large;
 }

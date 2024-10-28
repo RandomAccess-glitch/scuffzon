@@ -1,7 +1,9 @@
 .body-pillow {
-    background: #000e14;
+    background: #4c72bb;
     color: #6a040f;
     text-align: center;
+    /* background: linear-gradient(#4c72bb, #fed0d2); */
+    
 }
 
 .bdy {
@@ -10,15 +12,30 @@
     border-radius: 20px;
 }
 
-button {
-    background: 000e14;
+.button {
+    background: linear-gradient(#4c72bb, #fed0d2);
     color: #07c8f9;
     font-size: xx-large;
     border: 4px solid #07c8f9;
     padding: 8px 16px;
     border-radius: 24px;
+    text-decoration: none;
 }
 
 p {
     color: #07c8f9;
+}
+
+body {
+    font-family: Love Light, cursive;
+    background: linear-gradient(#4c72bb, #fed0d2);
+}
+
+#product {
+    font-size: large;
+}
+
+#marketing {
+    font-size: x-large;
+    font-weight: 800;
 }

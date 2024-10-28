@@ -3,9 +3,12 @@
 }
 
 .grenade {
-    background: #3c0919;
+    background: #706c46;
     text-align: center;
-    color: #dcace8;
+    color: black;
+    background: linear-gradient(#706c46, #38b000);
+    /* border: dotted black; */
+    margin: 0px;
 }
 
 button {
@@ -18,6 +21,12 @@ button {
 }
 
 .grd {
-    border: 6px solid #d9b285;
+    border: 6px solid #38b000;
     border-radius: 40px;
 }
+
+.product {
+    font-family: Rowdies, sans-serif;
+    font-weight: 400;
+}
+
